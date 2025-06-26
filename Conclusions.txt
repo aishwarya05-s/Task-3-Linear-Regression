@@ -1,0 +1,11 @@
+1. We observe that the linearity assumption is not satisfied.
+
+2. We observe high correlation between area and price, area and bathrooms, stories and price, stories and bathrooms, and airconditioning and price.
+
+3. The R2 score is 0.69200 suggests that 69% variability in Y is explained by the model.
+
+4. MSE is 974711322033.80 suggests poor model fit.
+
+5. Residuals are normally distributed.
+
+
